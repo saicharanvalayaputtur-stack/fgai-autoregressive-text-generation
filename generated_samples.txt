@@ -1,0 +1,71 @@
+[SimpleRNN | T=0.5] alice was beginning to get very tired of sitting by >> the directions , which said the queen s head to her daughter speaking , and the gryphon s grinned in reply to say it s angry , and holding , said the king . then she had not remember her head in the distant while she was head noticed the
+
+[SimpleRNN | T=0.5] the queen turned crimson with fury and glared at her >> arm when she walked her , and was going to her daughter wink to this , and she went on . it s the same thing , said the king , and the white rabbit blew silence , and the king was the answer to have to look at the
+
+[SimpleRNN | T=0.5] i do not think said the cat and it grinned >> a branch of the house , and a good deal to state of the house , and the dormouse never appeared , and began out of the wood . you re a little pattering of cards , and alice as she could to see the white rabbit blew writing to
+
+[SimpleRNN | T=1.0] alice was beginning to get very tired of sitting by >> the corners man , and alice said all his pieces , upsetting others . i m you re answer ! when it s them again or just like a little label , and remained nodded how come . they re ? oh , please ! won t you m not
+
+[SimpleRNN | T=1.0] the queen turned crimson with fury and glared at her >> arm curtseying sound to her feet , before she ought the fighting with the court , and on a great cause , will out the chimney , who ll be forgotten the queen feeling mayn weak after the leaves . i heard the cup of repeating the march hare .
+
+[SimpleRNN | T=1.0] i do not think said the cat and it grinned >> a sharks secondly own close to the stole she run , besides the hatter . the gryphon only decidedly , and then was one time but it doesn t be english out , after love . there was made out of them , will you ought to go which !
+
+[SimpleRNN | T=1.5] alice was beginning to get very tired of sitting by >> a flapper sun generally their slates . later poison each be nodded eagerly , you would tell me on off two at once in see poison , would doesn t become of you disagree crouched close to it read here , next , tossing a pleasure from this began .
+
+[SimpleRNN | T=1.5] the queen turned crimson with fury and glared at her >> sister ennyworth front of alice could was directly now more the newspapers bottom of the day well like a sat passion , in looking box lesson some between cheshire could begun to know muchness ending ma all , our procession , deep , smiling turned meant and ii with the
+
+[SimpleRNN | T=1.5] i do not think said the cat and it grinned >> there rustled joined wow ! perhaps . tired he kid had mournfully left feet at alice that both mean so gloves , you first doesn again seemed here talk . feeling for it trampled protection old to have ending managed to wouldn it relieved to doth it hastily very soon
+
+[BiRNN | T=0.5] alice was beginning to get very tired of sitting by >> the hedgehog . the mock turtle the ground and the march hare interrupted the hatter , and the other golden key , and she began out of her hands , and the other guests had gone at her golden key , and the accident and their slates . it was
+
+[BiRNN | T=0.5] the queen turned crimson with fury and glared at her >> time that s a little way , said the hatter , who were a head at once and she called . the mock turtle interrupted , and a melancholy tone , and , after folding his head would hear the queen , and the other guests had made her head
+
+[BiRNN | T=0.5] i do not think said the cat and it grinned >> the fire . why , and the pool of tears , said alice , and the dormouse came over , and the moral of alice was a bright brass and she was a body of been in the wood . and she was gone to be a bit of mushroom
+
+[BiRNN | T=1.0] alice was beginning to get very tired of sitting by >> the sun . i m a very clear important indeed , cried for a mouse , you wonder that they made a great girl but you know i d well i m a cucumber lower . said the dormouse . it can you directed at any ! said alice ,
+
+[BiRNN | T=1.0] the queen turned crimson with fury and glared at her >> words changed that he had quite little sensation . but the rightly master the first moment to get at two ! and she began about its door than when the top of the country child . the mock turtle began , my your position went on that soup on the
+
+[BiRNN | T=1.0] i do not think said the cat and it grinned >> a ridge nor close the other , if i beg . useful , it was a moment or two , said the mock turtle i feared it hurried off , after it , please violently up the mock turtle went on , and learnt in them it as that i
+
+[BiRNN | T=1.5] alice was beginning to get very tired of sitting by >> the entrance was over the curious rabbit doth close else , slightest fear sitting on the sort but had some duck it must never going exactly so he remembered a difficulty and the guard bore sobs off . mind so she looking to save what shut that behind her ,
+
+[BiRNN | T=1.5] the queen turned crimson with fury and glared at her >> face outside . what had as a oyster ! pig , wretched folded . alice could just looked back at all a bit tone . far , trying round , which alice was desperately paint messages or so replied alice in got the patience of english s certainly yet ,
+
+[BiRNN | T=1.5] i do not think said the cat and it grinned >> at speed legs air . he as size asked who , flinging cautiously at her get in looked very cats quietly in all like s most of trying all a candle all a hopeful affair takes then it either what it can t curtsey you having cats under another thing
+
+[LSTM | T=0.5] alice was beginning to get very tired of sitting by >> the sky . it was a little puppy was a very confused tone , and the mock turtle , and she was not to be ? i don t , i m a low bit . the queen was on , and the air , and a little tone ,
+
+[LSTM | T=0.5] the queen turned crimson with fury and glared at her >> . how you must be a little golden little deal , that s the king , and she had not like the mock turtle , and the gryphon of the march hare , as he did not , said the king , the cat , said the hatter . the
+
+[LSTM | T=0.5] i do not think said the cat and it grinned >> a low tone , and the queen s only round , you re a little thing , and she was not , and she had got to the door , and the queen or perfectly finger and the court , and she said to the other , and she was
+
+[LSTM | T=1.0] alice was beginning to get very tired of sitting by >> the tomorrow tone and she was to move out her , yawning s a great sort of somebody as i heard the first began just timidly , you re . if it a lest pigs their talking , he ll be going , sitting at this ? that he had
+
+[LSTM | T=1.0] the queen turned crimson with fury and glared at her >> moment than they might be that , things by how , lives about the hatter , i ve re an prizes , and they must talk . all off , with the queen witness may wouldn t a youth , and or the hedge the call it s much to
+
+[LSTM | T=1.0] i do not think said the cat and it grinned >> of execution so by the thing , old found his on forgot he had not ? said the mouse , be it s no use round the fan of the window , and condemn please his hand , he began to tell the distant next his hand of last ,
+
+[LSTM | T=1.5] alice was beginning to get very tired of sitting by >> again stirring once something like to it throwing matter even the arrived looked on a soon will remember herself in cats you say that now put it upon such the hookah in the occasional ache outside . it shook its head sister , patriotic silence off ! cried alice .
+
+[LSTM | T=1.5] the queen turned crimson with fury and glared at her >> face lest without clock to not the daresay then asked , tray everything ! said the march hare what were ears it again of look late in over here , half on the extras eh are he not dare an eyes seen the judging in nervous at once dear .
+
+[LSTM | T=1.5] i do not think said the cat and it grinned >> out quarrelling two even would one to avoid often wanted . reeling birds at alice of go back with at another two than large bright body even ears we that either in to murdering falling shrinking enough . these arm to try the beak way next that three piece of
+
+[GRU | T=0.5] alice was beginning to get very tired of sitting by >> the distant things and the rabbit was questions . and the executioner went on , and she went on , and she went on , it was a little bit , and the moral of the door , and the mock turtle said alice , and a little words and
+
+[GRU | T=0.5] the queen turned crimson with fury and glared at her >> . there s no use in the wood . a little snappishly . it s the mouse , and she could not to get out of the sort of the trees , and looking round her . and she went on , and walked that she had been a little
+
+[GRU | T=0.5] i do not think said the cat and it grinned >> . well , said the king , and a little little sharp kick , said the mock turtle . it s the cat . i ve got to say , said the king . again , and the rabbit s making its head impatiently , and she could not to
+
+[GRU | T=1.0] alice was beginning to get very tired of sitting by >> alice throwing croquet rather moment , the owl she felt , ma honour , and she could have been must go and than that she gone to get about , that she was dozing puzzled to alice , as she had too in bringing her surprise , and by the
+
+[GRU | T=1.0] the queen turned crimson with fury and glared at her >> again ! who went to be a fine tail , the unjust archbishop of the house , and he looked about and she could like all . what would to hear it , because we let you know what i have heard the jurors , in a hurry to a
+
+[GRU | T=1.0] i do not think said the cat and it grinned >> a summer trembling , i m a sulky of railway , curled another things ! i ve spoke to do ? to do i say an ground as ? the heard of the doubled evidently terrier you to somebody help to say , next , in a frightened low ,
+
+[GRU | T=1.5] alice was beginning to get very tired of sitting by >> an newspapers here ! it s the brave will find , wander somersault with her never again ! no back one they got about out two of his nurse . quite can ! comfortably played together ? of least finished the roof the hearth little saucer impatiently until being sure
+
+[GRU | T=1.5] the queen turned crimson with fury and glared at her >> feet entangled here that she had had laugh when he ! queens poor ? she could see he dance had generally a baby that there ought to speak eat the often cat to shrimp fairly off . it else began . their much humble when if i should mean you
+
+[GRU | T=1.5] i do not think said the cat and it grinned >> all signify two twice , and she waters like his queen overhead washing her back to like her something house at the end of his machines of an explanation , just as a thrown conger passionate itself , twinkle ! as course , exclaimed the pigeon ! now ? it
